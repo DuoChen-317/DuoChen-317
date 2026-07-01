@@ -117,11 +117,11 @@ Creative Systems   Games, interactive environments, real-time experiments
 
 ---
 
-## CONTRIBUTION GRID
+## ACTIVITY GRAPH
 
 <div align="center">
 
-![Duo's contribution snake](https://raw.githubusercontent.com/DuoChen-317/DuoChen-317/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DuoChen-317&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF2BD6&point=FFFFFF&area=true&area_color=7C3AED" alt="Duo's GitHub activity graph" />
 
 </div>
 
