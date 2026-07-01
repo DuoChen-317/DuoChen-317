@@ -18,67 +18,29 @@
 
 ---
 
-## 🧬 SYSTEM PROFILE
+## 你好，世界 👋
 
-```txt
-Name        : Duo Chen
-Alias       : tiyamo
-Origin      : China
-Education   : M.S. in Computer Science, Case Western Reserve University
-Focus       : VLA on simulation, embodied AI, robot intelligence
-Mode        : Build, test, iterate, deploy
-```
+## Hello World 👋
 
-I am a software engineer and AI builder focused on embodied AI, VLA systems, simulation-based robotics, agent development, and practical AI tools. I like projects that connect models with environments: systems that perceive, reason, act, and eventually become useful outside the notebook.
+- 📚 M.S. in Computer Science @ Case Western Reserve University
 
-Right now, my main focus is **VLA on simulation for embodied AI**, especially workflows around robotics AI implementation, simulation environments, and agentic systems.
+- 🇨🇳 From China, online as **tiyamo**
 
----
+- 🤖 Working on **VLA on simulation** / embodied AI right now
 
-## 🛠️ BUILD TOOLKIT
+- 🧠 Interested in AI tools, agent development, robot AI implementation, and games
 
-<div align="center">
+- 💻 Daily gear: Python, C++, Docker, Linux, Unity, Isaac Sim
 
-![Python](https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=101010)
-![C++](https://img.shields.io/badge/C++-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-00BFFF?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=00F5FF)
-![NVIDIA Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- 🎬 Movie lover. Always down for a good story and a strong atmosphere
 
-</div>
+- 📺 美剧 lover. **Shameless is the best**
 
-```txt
-Core loop     AI tools, agents, simulation, robotics implementation
-Daily gear    Python, C++, Docker, Linux, Isaac Sim, Unity
-Build taste   Practical systems, fast iteration, useful experiments
-```
+- 🎮 OW, WoW, GTA, The Witcher 3, and other big 3A worlds
 
----
+- 🎧 Music lover: R&B and Chinese pop
 
-## 🚀 CURRENT QUEST
-
-```txt
-> Building and experimenting with VLA systems in simulation.
-> Connecting AI models with embodied environments.
-> Developing agents and tools that make research workflows faster.
-```
-
-- Implementing AI tools and agent workflows
-- Exploring robot AI behavior in simulated environments
-- Building with Python, Docker, Linux, Unity, and Isaac Sim
-- Interested in games as interactive systems for intelligence and creativity
-
----
-
-## 🎧 OFFLINE SIGNAL
-
-```txt
-Movies        Movie lover. Always down for a good story and a strong atmosphere.
-TV Shows      美剧 lover. Shameless is the best.
-Games         OW, WoW, GTA, The Witcher 3, and other big 3A worlds.
-Music         R&B and Chinese pop.
-Instruments   Guitar, bass, and a little bit of drums / 架子鼓.
-```
+- 🎸 I can play guitar and bass, plus a little bit of drums / 架子鼓
 
 ---
 
