@@ -1,10 +1,10 @@
 <div align="center">
 
-# Duo Chen
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34" /> Duo Chen
 
-### Software Engineer / AI Builder / Full-Stack Developer
+### ⚡ Software Engineer / AI Builder / Full-Stack Developer
 
-`tiyamo` | VLA on Simulation | Embodied AI | Agent Development
+`tiyamo` | 🤖 VLA on Simulation | 🧠 Embodied AI | 🛰️ Agent Development
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=760&lines=Building+AI+systems+that+move+from+code+to+worlds;Exploring+VLA%2C+simulation%2C+robotics%2C+and+agents;Software+engineering+with+a+cyberpunk+edge" alt="Typing SVG" />
 
@@ -18,7 +18,7 @@
 
 ---
 
-## SYSTEM PROFILE
+## 🧬 SYSTEM PROFILE
 
 ```txt
 Name        : Duo Chen
@@ -35,7 +35,7 @@ Right now, my main focus is **VLA on simulation for embodied AI**, especially wo
 
 ---
 
-## TECH ARSENAL
+## 🛠️ TECH ARSENAL
 
 <div align="center">
 
@@ -59,7 +59,7 @@ Creative Systems   Games, interactive environments, real-time experiments
 
 ---
 
-## CURRENT QUEST
+## 🚀 CURRENT QUEST
 
 ```txt
 > Building and experimenting with VLA systems in simulation.
@@ -74,26 +74,26 @@ Creative Systems   Games, interactive environments, real-time experiments
 
 ---
 
-## FEATURED REPOSITORIES
+## 🗂️ FEATURED REPOSITORIES
 
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/DuoChen-317/paper_agent">paper_agent</a></h3>
+      <h3>📄 <a href="https://github.com/DuoChen-317/paper_agent">paper_agent</a></h3>
       <p>Agentic, multi-stage academic paper assistant.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/DuoChen-317/etfall">etfall</a></h3>
+      <h3>⚖️ <a href="https://github.com/DuoChen-317/etfall">etfall</a></h3>
       <p>Research project on emotional-tone fairness across language levels in large language models.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/DuoChen-317/svrllm">svrllm</a></h3>
+      <h3>🎞️ <a href="https://github.com/DuoChen-317/svrllm">svrllm</a></h3>
       <p>Subsequent video retrieval based on VLM.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/DuoChen-317/axground3D">axground3D</a></h3>
+      <h3>🧊 <a href="https://github.com/DuoChen-317/axground3D">axground3D</a></h3>
       <p>Python project connected to 3D / simulation exploration.</p>
     </td>
   </tr>
@@ -101,7 +101,7 @@ Creative Systems   Games, interactive environments, real-time experiments
 
 ---
 
-## GITHUB SIGNAL
+## 📡 GITHUB SIGNAL
 
 <div align="center">
 
@@ -117,7 +117,7 @@ Creative Systems   Games, interactive environments, real-time experiments
 
 ---
 
-## ACTIVITY GRAPH
+## ⚙️ ACTIVITY GRAPH
 
 <div align="center">
 
@@ -127,7 +127,7 @@ Creative Systems   Games, interactive environments, real-time experiments
 
 ---
 
-## CONNECT
+## 🔗 CONNECT
 
 ```txt
 Email   : tiyamo317@gmail.com
@@ -137,6 +137,6 @@ Docker  : hub.docker.com/repositories/tiyamo
 
 <div align="center">
 
-### Neon systems, simulated worlds, embodied intelligence.
+### ✦ Neon systems, simulated worlds, embodied intelligence.
 
 </div>
