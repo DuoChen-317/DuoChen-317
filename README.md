@@ -70,10 +70,7 @@
 ## 📡 GITHUB SIGNAL
 
 <div align="center">
-
-<img height="165" src="./assets/github-signal.svg" alt="Duo's AI build signal" />
-<img height="165" src="./assets/language-matrix.svg" alt="Duo's offline signal" />
-
+  
 <br />
 <br />
 
