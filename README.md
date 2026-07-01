@@ -92,7 +92,11 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DuoChen-317&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF2BD6&point=FFFFFF&area=true&area_color=7C3AED&custom_title=Duo%20Chen%27s%20Contribution%20Graph" alt="Duo Chen's Contribution Graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuoChen-317/DuoChen-317/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuoChen-317/DuoChen-317/output/github-contribution-grid-snake.svg">
+  <img alt="Duo Chen's contribution snake" src="https://raw.githubusercontent.com/DuoChen-317/DuoChen-317/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 <div align="center">
 
