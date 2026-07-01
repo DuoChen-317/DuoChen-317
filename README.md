@@ -1,10 +1,10 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34" /> Duo Chen
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34" /> Tiyamo / Duo Chen
 
 ### ⚡ Software Engineer / AI Builder / Full-Stack Developer
 
-`tiyamo` | 🤖 VLA on Simulation | 🧠 Embodied AI | 🛰️ Agent Development
+ 🤖 VLA on Simulation | 🧠 Embodied AI | 🛰️ Agent Development
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=760&lines=Building+AI+systems+that+move+from+code+to+worlds;Exploring+VLA%2C+simulation%2C+robotics%2C+and+agents;Software+engineering+with+a+cyberpunk+edge" alt="Typing SVG" />
 
