@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠️ 技术栈 / Tech Matrix
+## 🛠️ Tech Matrix
 
 <div align="center">
 
