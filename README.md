@@ -40,6 +40,29 @@
 
 ---
 
+## 🛠️ 技术栈 / Tech Matrix
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-FF2BD6?style=for-the-badge&logo=openjdk&logoColor=white)
+![Unity](https://img.shields.io/badge/UNITY-111111?style=for-the-badge&logo=unity&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/ISAAC_SIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
+![AI Agents](https://img.shields.io/badge/AI_AGENTS-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![Robotics](https://img.shields.io/badge/ROBOTICS-00F5FF?style=for-the-badge&logo=ros&logoColor=111111)
+
+![Game Dev](https://img.shields.io/badge/GAME_DEV-FF5F6D?style=for-the-badge&logo=unity&logoColor=white)
+![Embodied AI](https://img.shields.io/badge/EMBODIED_AI-22C55E?style=for-the-badge&logo=nvidia&logoColor=white)
+![Server Ops](https://img.shields.io/badge/SERVER_OPS-3B82F6?style=for-the-badge&logo=linux&logoColor=white)
+
+</div>
+
+---
+
 ## 🗂️ FEATURED REPOSITORIES
 
 <table>
@@ -70,7 +93,10 @@
 ## 📡 GITHUB SIGNAL
 
 <div align="center">
-  
+
+<img height="165" src="./assets/github-signal.svg" alt="Duo's AI build signal" />
+<img height="165" src="./assets/language-matrix.svg" alt="Duo's tech matrix" />
+
 <br />
 <br />
 

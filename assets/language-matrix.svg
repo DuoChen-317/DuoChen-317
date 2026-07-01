@@ -1,21 +1,21 @@
 <svg width="420" height="165" viewBox="0 0 420 165" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="420" height="165" rx="14" fill="#0D1117"/>
   <rect x="1" y="1" width="418" height="163" rx="13" stroke="#FF2BD6" stroke-opacity="0.45" stroke-width="2"/>
-  <text x="26" y="27" fill="#FF2BD6" font-family="Verdana, Arial, sans-serif" font-size="17" font-weight="700">OFFLINE SIGNAL</text>
+  <text x="26" y="27" fill="#FF2BD6" font-family="Verdana, Arial, sans-serif" font-size="17" font-weight="700">TECH MATRIX</text>
   <path d="M26 37H394" stroke="#00F5FF" stroke-opacity="0.55"/>
   <g font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="700">
     <rect x="26" y="55" width="96" height="28" rx="8" fill="#00F5FF" fill-opacity="0.16" stroke="#00F5FF"/>
-    <text x="52" y="74" fill="#E6EDF3">Movies</text>
+    <text x="50" y="74" fill="#E6EDF3">Python</text>
     <rect x="136" y="55" width="96" height="28" rx="8" fill="#FF2BD6" fill-opacity="0.15" stroke="#FF2BD6"/>
-    <text x="164" y="74" fill="#E6EDF3">Shameless</text>
+    <text x="168" y="74" fill="#E6EDF3">C++</text>
     <rect x="246" y="55" width="96" height="28" rx="8" fill="#7C3AED" fill-opacity="0.18" stroke="#7C3AED"/>
-    <text x="279" y="74" fill="#E6EDF3">OW</text>
+    <text x="279" y="74" fill="#E6EDF3">Java</text>
     <rect x="26" y="96" width="96" height="28" rx="8" fill="#00BFFF" fill-opacity="0.15" stroke="#00BFFF"/>
-    <text x="58" y="115" fill="#E6EDF3">WoW</text>
+    <text x="49" y="115" fill="#E6EDF3">Docker</text>
     <rect x="136" y="96" width="96" height="28" rx="8" fill="#FFD93D" fill-opacity="0.14" stroke="#FFD93D"/>
-    <text x="157" y="115" fill="#E6EDF3">R&amp;B / C-pop</text>
+    <text x="162" y="115" fill="#E6EDF3">Linux</text>
     <rect x="246" y="96" width="118" height="28" rx="8" fill="#76B900" fill-opacity="0.14" stroke="#76B900"/>
-    <text x="268" y="115" fill="#E6EDF3">Guitar / Bass</text>
+    <text x="269" y="115" fill="#E6EDF3">Isaac Sim</text>
   </g>
-  <text x="26" y="147" fill="#8B949E" font-family="Verdana, Arial, sans-serif" font-size="12">Movies • 美剧 • 3A Games • Music • Instruments</text>
+  <text x="26" y="147" fill="#8B949E" font-family="Verdana, Arial, sans-serif" font-size="12">Unity • VLA • Embodied AI • Agents • Robotics</text>
 </svg>
