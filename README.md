@@ -18,10 +18,6 @@
 
 ---
 
-## 你好，世界 👋
-
-## Hello World 👋
-
 - 📚 M.S. in Computer Science @ Case Western Reserve University
 
 - 🇨🇳 From China, online as **tiyamo**
@@ -34,13 +30,13 @@
 
 - 🎬 Movie lover. Always down for a good story and a strong atmosphere
 
-- 📺 美剧 lover. **Shameless is the best**
+- 📺 American TV series lover. **Shameless is the best**
 
-- 🎮 OW, WoW, GTA, The Witcher 3, and other big 3A worlds
+- 🎮 OW, WoW, GTA, The Witcher 3, and other 3A games
 
 - 🎧 Music lover: R&B and Chinese pop
 
-- 🎸 I can play guitar and bass, plus a little bit of drums / 架子鼓
+- 🎸 guitar and bass, plus a little bit of drums
 
 ---
 
