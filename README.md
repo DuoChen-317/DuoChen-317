@@ -105,8 +105,8 @@ Creative Systems   Games, interactive environments, real-time experiments
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DuoChen-317&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF2BD6&text_color=E6EDF3" alt="Duo's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuoChen-317&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3" alt="Duo's most used languages" />
+<img height="165" src="./assets/github-signal.svg" alt="Duo's AI build signal" />
+<img height="165" src="./assets/language-matrix.svg" alt="Duo's language matrix" />
 
 <br />
 <br />

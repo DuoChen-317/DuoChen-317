@@ -1,0 +1,15 @@
+<svg width="420" height="165" viewBox="0 0 420 165" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="165" rx="14" fill="#0D1117"/>
+  <rect x="1" y="1" width="418" height="163" rx="13" stroke="#00F5FF" stroke-opacity="0.45" stroke-width="2"/>
+  <path d="M26 37H394" stroke="#FF2BD6" stroke-opacity="0.55"/>
+  <text x="26" y="27" fill="#00F5FF" font-family="Verdana, Arial, sans-serif" font-size="17" font-weight="700">AI BUILD SIGNAL</text>
+  <text x="26" y="68" fill="#E6EDF3" font-family="Verdana, Arial, sans-serif" font-size="14">Focus</text>
+  <text x="130" y="68" fill="#FFD93D" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="700">VLA on Simulation</text>
+  <text x="26" y="96" fill="#E6EDF3" font-family="Verdana, Arial, sans-serif" font-size="14">Domain</text>
+  <text x="130" y="96" fill="#FF7A1A" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="700">Embodied AI / Robotics</text>
+  <text x="26" y="124" fill="#E6EDF3" font-family="Verdana, Arial, sans-serif" font-size="14">Mode</text>
+  <text x="130" y="124" fill="#00F5FF" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="700">Build • Test • Iterate • Deploy</text>
+  <circle cx="360" cy="82" r="32" stroke="#7C3AED" stroke-width="6" opacity="0.85"/>
+  <circle cx="360" cy="82" r="20" stroke="#00F5FF" stroke-width="5" opacity="0.95"/>
+  <circle cx="360" cy="82" r="7" fill="#FF2BD6"/>
+</svg>

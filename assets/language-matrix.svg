@@ -1,0 +1,21 @@
+<svg width="420" height="165" viewBox="0 0 420 165" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="165" rx="14" fill="#0D1117"/>
+  <rect x="1" y="1" width="418" height="163" rx="13" stroke="#FF2BD6" stroke-opacity="0.45" stroke-width="2"/>
+  <text x="26" y="27" fill="#FF2BD6" font-family="Verdana, Arial, sans-serif" font-size="17" font-weight="700">LANGUAGE MATRIX</text>
+  <path d="M26 37H394" stroke="#00F5FF" stroke-opacity="0.55"/>
+  <g font-family="Verdana, Arial, sans-serif" font-size="13" font-weight="700">
+    <rect x="26" y="55" width="92" height="28" rx="8" fill="#00F5FF" fill-opacity="0.16" stroke="#00F5FF"/>
+    <text x="48" y="74" fill="#E6EDF3">Python</text>
+    <rect x="132" y="55" width="92" height="28" rx="8" fill="#FF2BD6" fill-opacity="0.15" stroke="#FF2BD6"/>
+    <text x="162" y="74" fill="#E6EDF3">Java</text>
+    <rect x="238" y="55" width="92" height="28" rx="8" fill="#7C3AED" fill-opacity="0.18" stroke="#7C3AED"/>
+    <text x="270" y="74" fill="#E6EDF3">C++</text>
+    <rect x="26" y="96" width="92" height="28" rx="8" fill="#00BFFF" fill-opacity="0.15" stroke="#00BFFF"/>
+    <text x="49" y="115" fill="#E6EDF3">Docker</text>
+    <rect x="132" y="96" width="92" height="28" rx="8" fill="#FFD93D" fill-opacity="0.14" stroke="#FFD93D"/>
+    <text x="162" y="115" fill="#E6EDF3">Linux</text>
+    <rect x="238" y="96" width="118" height="28" rx="8" fill="#76B900" fill-opacity="0.14" stroke="#76B900"/>
+    <text x="263" y="115" fill="#E6EDF3">Isaac Sim</text>
+  </g>
+  <text x="26" y="147" fill="#8B949E" font-family="Verdana, Arial, sans-serif" font-size="12">Simulation • Agents • Robotics • Games</text>
+</svg>
