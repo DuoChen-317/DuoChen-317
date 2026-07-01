@@ -90,27 +90,11 @@
 
 ---
 
-## 📡 GITHUB SIGNAL
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="./assets/github-signal.svg" alt="Duo's AI build signal" />
-<img height="165" src="./assets/language-matrix.svg" alt="Duo's tech matrix" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=DuoChen-317&theme=neon-dark&hide_border=true&background=0D1117&ring=00F5FF&fire=FF2BD6&currStreakLabel=00F5FF" alt="GitHub streak" />
-
-</div>
-
----
-
-## ⚙️ ACTIVITY GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DuoChen-317&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF2BD6&point=FFFFFF&area=true&area_color=7C3AED" alt="Duo's GitHub activity graph" />
+<img src="./assets/github-stats.svg" alt="Duo's GitHub stats" />
 
 </div>
 
