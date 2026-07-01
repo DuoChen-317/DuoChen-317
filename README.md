@@ -92,24 +92,28 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuoChen-317/DuoChen-317/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuoChen-317/DuoChen-317/output/github-contribution-grid-snake.svg">
-  <img alt="Duo Chen's contribution snake" src="https://raw.githubusercontent.com/DuoChen-317/DuoChen-317/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="Duo Chen's contribution snake" src="https://raw.githubusercontent.com/DuoChen-317/DuoChen-317/output/github-contribution-grid-snake.svg" width="92%">
 </picture>
+
+</div>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=DuoChen-317&show_icons=true&theme=transparent&border_radius=16&title_color=00F5FF&text_color=e2e8f0&icon_color=FF2BD6&hide_border=true&v=1">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=DuoChen-317&show_icons=true&theme=transparent&border_radius=16&title_color=7C3AED&text_color=374151&icon_color=7C3AED&hide_border=true&v=1">
-  <img height="180em" src="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=DuoChen-317&show_icons=true&theme=transparent&border_radius=16&hide_border=true&v=1" alt="Duo Chen's GitHub stats" />
+  <img height="180" src="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=DuoChen-317&show_icons=true&theme=transparent&border_radius=16&hide_border=true&v=1" alt="Duo Chen's GitHub stats" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/top-langs/?username=DuoChen-317&layout=compact&theme=transparent&border_radius=16&title_color=00F5FF&text_color=e2e8f0&hide_border=true&langs_count=8&v=1">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/top-langs/?username=DuoChen-317&layout=compact&theme=transparent&border_radius=16&title_color=7C3AED&text_color=374151&hide_border=true&langs_count=8&v=1">
-  <img height="180em" src="https://github-readme-stats-ten-zeta-48.vercel.app/api/top-langs/?username=DuoChen-317&layout=compact&theme=transparent&border_radius=16&hide_border=true&langs_count=8&v=1" alt="Duo Chen's most used languages" />
+  <img height="180" src="https://github-readme-stats-ten-zeta-48.vercel.app/api/top-langs/?username=DuoChen-317&layout=compact&theme=transparent&border_radius=16&hide_border=true&langs_count=8&v=1" alt="Duo Chen's most used languages" />
 </picture>
 
 </div>
