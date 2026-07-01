@@ -35,26 +35,22 @@ Right now, my main focus is **VLA on simulation for embodied AI**, especially wo
 
 ---
 
-## 🛠️ TECH ARSENAL
+## 🛠️ BUILD TOOLKIT
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=101010)
-![Java](https://img.shields.io/badge/Java-FF2BD6?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-00BFFF?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=00F5FF)
-![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
 ![NVIDIA Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </div>
 
 ```txt
-AI / Robotics      VLA, embodied AI, robotics AI implementation, simulation
-Agents             Agent development, AI tool implementation, workflow automation
-Engineering        Python, Java, C++, Docker, Linux
-Simulation         Unity, Isaac Sim
-Creative Systems   Games, interactive environments, real-time experiments
+Core loop     AI tools, agents, simulation, robotics implementation
+Daily gear    Python, C++, Docker, Linux, Isaac Sim, Unity
+Build taste   Practical systems, fast iteration, useful experiments
 ```
 
 ---
@@ -71,6 +67,18 @@ Creative Systems   Games, interactive environments, real-time experiments
 - Exploring robot AI behavior in simulated environments
 - Building with Python, Docker, Linux, Unity, and Isaac Sim
 - Interested in games as interactive systems for intelligence and creativity
+
+---
+
+## 🎧 OFFLINE SIGNAL
+
+```txt
+Movies        Movie lover. Always down for a good story and a strong atmosphere.
+TV Shows      美剧 lover. Shameless is the best.
+Games         OW, WoW, GTA, The Witcher 3, and other big 3A worlds.
+Music         R&B and Chinese pop.
+Instruments   Guitar, bass, and a little bit of drums / 架子鼓.
+```
 
 ---
 
@@ -106,7 +114,7 @@ Creative Systems   Games, interactive environments, real-time experiments
 <div align="center">
 
 <img height="165" src="./assets/github-signal.svg" alt="Duo's AI build signal" />
-<img height="165" src="./assets/language-matrix.svg" alt="Duo's language matrix" />
+<img height="165" src="./assets/language-matrix.svg" alt="Duo's offline signal" />
 
 <br />
 <br />
