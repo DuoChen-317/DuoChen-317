@@ -20,11 +20,11 @@
 
 - 📚 M.S. in Computer Science @ Case Western Reserve University
 
-- 🇨🇳 From China, online as **tiyamo**
+- 🇨🇳 From China, online as **Tiyamo**
 
 - 🤖 Working on **VLA on simulation** / embodied AI right now
 
-- 🧠 Interested in AI tools, agent development, robot AI implementation, and games
+- 🧠 Interested in AI tools, embodied AI, robot AI implementation, and games
 
 - 💻 Daily gear: Python, C++, Docker, Linux, Unity, Isaac Sim
 
