@@ -32,7 +32,7 @@
 
 - 📺 American TV series lover. **Shameless is the best**
 
-- 🎮 OW, WoW, GTA, The Witcher 3, and other 3A games
+- 🎮 OW, MC, WoW, GTA, The Witcher 3, and other 3A games
 
 - 🎧 Music lover: R&B and Chinese pop
 
