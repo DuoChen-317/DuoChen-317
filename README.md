@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34" /> Tiyamo / Duo Chen
 
-### ⚡ Software Engineer / AI Builder / Full-Stack Developer
+### ⚡ https://tiyamo.top/
 
  🤖 VLA on Simulation | 🧠 Embodied AI | 🛰️ Agent Development
 
