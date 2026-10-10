@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34" /> Tiyamo / Duo Chen
 
-### ⚡ https://tiyamo.top/
+### ❤️ More about me https://tiyamo.top
 
  🤖 VLA on Simulation | 🧠 Embodied AI | 🛰️ Agent Development
 
