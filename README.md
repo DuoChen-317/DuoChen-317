@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>🎞️ <a href="https://github.com/DuoChen-317/svrllm">svrllm</a></h3>
+      <h3>🎞️ <a href="https://github.com/YichengDuan/svrllm">svrllm</a></h3>
       <p>Subsequent video retrieval based on VLM.</p>
     </td>
     <td width="50%">
