@@ -128,8 +128,3 @@ GitHub  : github.com/DuoChen-317
 Docker  : hub.docker.com/repositories/tiyamo
 ```
 
-<div align="center">
-
-### ✦ Neon systems, simulated worlds, embodied intelligence.
-
-</div>
